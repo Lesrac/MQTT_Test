@@ -1,0 +1,3 @@
+mosquitto_sub.exe -t /testit/now
+
+mosquitto_pub.exe -m "Hello everybody" -t /testit/now

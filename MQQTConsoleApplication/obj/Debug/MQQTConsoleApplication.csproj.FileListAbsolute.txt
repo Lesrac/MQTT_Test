@@ -1,0 +1,10 @@
+E:\projekte\VisualStudioMQTT\MQQTConsoleApplication\MQQTConsoleApplication\bin\Debug\MQQTConsoleApplication.exe.config
+E:\projekte\VisualStudioMQTT\MQQTConsoleApplication\MQQTConsoleApplication\obj\Debug\MQQTConsoleApplication.csprojResolveAssemblyReference.cache
+E:\projekte\VisualStudioMQTT\MQQTConsoleApplication\MQQTConsoleApplication\bin\Debug\MQQTConsoleApplication.exe
+E:\projekte\VisualStudioMQTT\MQQTConsoleApplication\MQQTConsoleApplication\bin\Debug\MQQTConsoleApplication.pdb
+E:\projekte\VisualStudioMQTT\MQQTConsoleApplication\MQQTConsoleApplication\bin\Debug\M2Mqtt.Net.dll
+E:\projekte\VisualStudioMQTT\MQQTConsoleApplication\MQQTConsoleApplication\bin\Debug\M2Mqtt.Net.pdb
+E:\projekte\VisualStudioMQTT\MQQTConsoleApplication\MQQTConsoleApplication\obj\Debug\MQQTConsoleApplication.exe
+E:\projekte\VisualStudioMQTT\MQQTConsoleApplication\MQQTConsoleApplication\obj\Debug\MQQTConsoleApplication.pdb
+E:\projekte\VisualStudioMQTT\MQQTConsoleApplication\MQQTConsoleApplication\bin\Debug\config\MapConfig.txt
+E:\projekte\VisualStudioMQTT\MQQTConsoleApplication\MQQTConsoleApplication\bin\Debug\views\default.xml
